@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, ich bin Luca</h1>
-<h3 align="center">Developer • Tech Enthusiast • Creative Editor</h3>
+<h3 align="center"> Tech Enthusiast • Creative Editor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;Java+%26+SQL;Windows+%2F+Linux+%2F+Mac;Mobile+%26+Creative+Tech+🚀" />
