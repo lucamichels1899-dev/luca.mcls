@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, ich bin Luca</h1>
-<h3 align="center">Fullstack Developer • Mobile Apps • Creative Tech</h3>
+<h3 align="center">Developer • Tech Enthusiast • Creative Editor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+React+Native;TypeScript+Lover;Building+cool+stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;Java+%26+SQL;Windows+%2F+Linux+%2F+Mac;Mobile+%26+Creative+Tech+🚀" />
 </p>
 
 ---
 
 # 🧑‍💻 About Me
 
-- 🚀 Fokus auf moderne Web- & Mobile-Apps
-- 📱 React Native & Fullstack Development
-- ⚡ TypeScript, Node.js & UI/UX
-- 🎨 Zusätzlich kreativ unterwegs mit Content & Design
-- 🌱 Immer am Lernen neuer Technologien
+- 💻 Interesse an Softwareentwicklung & IT
+- 🌐 Erfahrung mit Web-Technologien
+- 🖥️ Sicher im Umgang mit verschiedenen Betriebssystemen
+- 📱 Interesse an Mobile-Technologien
+- 🎬 Kreativ unterwegs mit Video Editing & 3D-Design
 
 ---
 
@@ -23,39 +23,37 @@
   <a href="https://github.com/DEINNAME">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-
-  <a href="https://instagram.com/DEINNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Programming Languages
 
-### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Backend
+---
+
+# 🖥️ Operating Systems
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=windows,linux,apple" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-### Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+---
 
-### Tools
+# 🛠️ Software & Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" />
+<img src="https://img.shields.io/badge/Fusion360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
 ---
@@ -64,7 +62,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEINNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -78,7 +76,7 @@
 
 ---
 
-# 🏆 Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DEINNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -90,7 +88,10 @@
 
 ```javascript
 const luca = {
-  code: ["TypeScript", "JavaScript", "Go"],
-  technologies: ["React", "React Native", "Node.js"],
-  currentlyLearning: "Always something new 🚀"
+  languages: ["JavaScript", "Java", "SQL"],
+  web: ["HTML", "CSS"],
+  systems: ["Windows", "Linux", "MacOS"],
+  mobile: ["iOS", "Android"],
+  creativeTools: ["Fusion360", "DaVinci Resolve"],
+  office: ["Microsoft Office"]
 }
